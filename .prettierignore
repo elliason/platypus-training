@@ -1,0 +1,9 @@
+.vscode
+.idea
+.turbo
+.pnpm-store
+.pnpm
+dist
+node_modules
+coverage
+.next

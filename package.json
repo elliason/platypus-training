@@ -1,0 +1,19 @@
+{
+    "name": "platypus-training",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "format": "prettier --write \"**/*.{ts,tsx,js,jsx,css,scss,less,json,cjs,mjs,html,yml,yaml}\"",
+        "dev": "turbo dev",
+        "build": "turbo build",
+        "lint": "turbo lint"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prettier": "^3.2.5",
+        "turbo": "^1.13.2"
+    }
+}

@@ -1,0 +1,27 @@
+### APP ###
+node_modules
+.npm_cache
+.pnpm-store
+.pnpm
+.turbo
+dist
+.next
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
